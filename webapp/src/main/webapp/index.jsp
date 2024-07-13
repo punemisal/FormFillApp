@@ -25,7 +25,7 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="PAN"><b>PAN Number</b></label>
+    <label for="PAN"><b>Age</b></label>
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
