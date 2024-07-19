@@ -41,6 +41,16 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
+    <label for="sister"><b>Age</b></label>
+    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+    <br>
+
+    <label for="brother"><b>Age</b></label>
+    <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
+    <br>
+
+
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
