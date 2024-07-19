@@ -38,14 +38,14 @@
     <br>
 
     <label for="age"><b>Age</b></label>
-    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <input type="text" placeholder="age" name="age" id="age" required>
     <br>
 
-    <label for="sister"><b>Age</b></label>
+    <label for="sister"><b>Sister Name</b></label>
     <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
     <br>
 
-    <label for="brother"><b>Age</b></label>
+    <label for="brother"><b>Brother Name</b></label>
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
 
